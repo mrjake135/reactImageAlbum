@@ -4,9 +4,7 @@ function App() {
   return (
     <div>
       <header>
-        <p>
-          Hello World.
-        </p>
+        <img src="..public/images/onejun_1.jpeg" alt="onejun">
       </header>
     </div>
   );
