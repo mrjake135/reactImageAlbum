@@ -4,8 +4,8 @@ function App() {
   return (
     <div>
       <header>
-        <img src="..public/images/onejun_1.jpeg" alt="onejun">
       </header>
+      <img src="https://github.com/sampeiomichi/onejunchong/blob/master/public/images/onejun_1.jpeg?raw=true" alt="1jun" width="500"></img>
     </div>
   );
 }
